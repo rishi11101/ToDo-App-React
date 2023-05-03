@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+To-Do list app with React Js and Tailwind Css. Features - Mark as Complete, Add, Update and Delete Tasks.
+## Visit The Project Here : https://react-todo-rishi111.netlify.app/
 
-### Visit The Project Here : https://react-todo-rishi111.netlify.app/
+
+# Getting Started with Create React App
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
